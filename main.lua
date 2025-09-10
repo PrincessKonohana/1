@@ -4,7 +4,7 @@
 
 ----- {{ Starting Checks;
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/PrincessKonohana/1/refs/heads/main/2.lu"))();
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/PrincessKonohana/1/refs/heads/main/2.lua"))();
 
 if (game.PlaceId ~= 443406476) then
     error(string.format("[SK22T] - Unsupported game"));
